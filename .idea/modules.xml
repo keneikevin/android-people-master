@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/879167703/android-people-master.iml" filepath="$PROJECT_DIR$/.idea/modules/879167703/android-people-master.iml" group="android-people-master" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/630168809/app.iml" filepath="$PROJECT_DIR$/.idea/modules/630168809/app.iml" group="android-people-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app-start.iml" filepath="$PROJECT_DIR$/.idea/modules/app-start.iml" group="android-people-master/app-start" />
+    </modules>
+  </component>
+</project>
